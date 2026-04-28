@@ -12,6 +12,12 @@ Location:Region, order by Region
 Power Bi Desktop
 Power Query
 DAX Formula
+##DASHBOARD SCREENSHOT
+CUSTOMER_INSIGHTS.png
+SALES_OVERVIEW.png
+REVIEW_ANALYSIS.png
+PRODUCT_PERFORMANCE.png
+MAP.png
 ##Dashboard preview
 #3 How to view
 download the file from repository and open in Power BI desktop.
