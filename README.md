@@ -1,4 +1,4 @@
-###ProjectMyntra 
+###PROJECTMYNTRA 
 sales & customer Insights Analysis
 ##Project Overview
 This is a power Bi project provide a comprehensive analysis of myntra's sales performance, product trends and customer insights.The goal is to identify key growth drivers.
